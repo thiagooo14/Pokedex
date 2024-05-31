@@ -16,8 +16,12 @@ You may also see any lint errors in the console.
 ## Requisitos
 
 Criar um pokedex usando components de React
-
-- Criar componente que renderiza o numero da pokedex o nome do pokemon e sua Sprite
-- Renderizar na pagina 6 cards de pokemon por vez
-- ter como navegar para os proximos 6 pokemons na pokedex
-- mostrar um card que mostre a descrição do pokemon selecionado
+1. criar component card que renderize o id e o nome e a sprite de um pokemon a escolha dentro do data
+![image](https://github.com/thiagooo14/Pokedex/assets/55953220/c5078756-b7d1-4ebd-b5af-3924715ae84b)
+1.1 para filtrar utilize por exemplo 
+~~~javascript
+const pokemon = data[0];
+~~~
+2.  replique o card para que mostre todos os pokemons do Data
+![image](https://github.com/thiagooo14/Pokedex/assets/55953220/dd453bbb-8ff9-4cca-9fd1-2fa118199031)
+2.2 dica use metodo map para replicar o card

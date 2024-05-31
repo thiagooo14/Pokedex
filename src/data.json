@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "describe": "Bulbasaur pode ser visto cochilando sob a luz do sol. Há uma semente nas costas. Ao absorver os raios do sol, a semente cresce progressivamente maior.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png"
+  },
+  {
+    "id": 2,
+    "name": "Ivysaur",
+    "describe": "Ivysaur é a evolução de Bulbasaur. Ele possui uma flor em seu lombo que floresce quando recebe muita luz solar.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Venusaur",
+    "describe": "Venusaur é a forma final da evolução de Bulbasaur. Sua flor desabrocha completamente e libera um aroma doce.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Charmander",
+    "describe": "Charmander tem uma chama na ponta de sua cauda. Se a chama se apagar, ele morre.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Charmeleon",
+    "describe": "Charmeleon é a evolução de Charmander. Ele é mais agressivo e poderoso.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Charizard",
+    "describe": "Charizard é a forma final da evolução de Charmander. Ele pode voar e lançar fogo.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png"
+  },
+  {
+    "id": 7,
+    "name": "Squirtle",
+    "describe": "Squirtle é um Pokémon aquático com uma concha em suas costas. Ele é um excelente nadador.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Wartortle",
+    "describe": "Wartortle é a evolução de Squirtle. Ele tem uma cauda com uma espiral.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png"
+  },
+  {
+    "id": 9,
+    "name": "Blastoise",
+    "describe": "Blastoise é a forma final da evolução de Squirtle. Ele possui canhões de água em suas conchas.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png"
+  },
+  {
+    "id": 10,
+    "name": "Caterpie",
+    "describe": "Caterpie é uma larva verde com manchas amarelas. Ele se transforma em Metapod.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png"
+  },
+  {
+    "id": 11,
+    "Name": "Metapod",
+    "describe": "Metapod é a evolução de Caterpie. Ele tem uma casca dura e não pode se mover muito.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png"
+  },
+  {
+    "id": 12,
+    "Name": "Butterfree",
+    "describe": "Butterfree é a forma final da evolução de Caterpie. Ele tem asas grandes e coloridas.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png"
+  },
+  {
+    "id": 13,
+    "Name": "Weedle",
+    "describe": "Weedle é uma larva com um ferrão venenoso na cabeça. Ele se transforma em Kakuna.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png"
+  },
+  {
+    "id": 14,
+    "Name": "Kakuna",
+    "describe": "Kakuna é a evolução de Weedle. Ele tem uma casca dura e não pode se mover muito.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png"
+  },
+  {
+    "ID": 15,
+    "Name": "Beedrill",
+    "describe": "Beedrill é a forma final da evolução de Weedle. Ele tem ferrões venenosos nas mãos.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png"
+  },
+  {
+    "ID": 16,
+    "Name": "Pidgey",
+    "describe": "Pidgey é um pequeno pássaro comum. Ele voa em busca de insetos para comer.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png"
+  },
+  {
+    "ID": 17,
+    "Name": "Pidgeotto",
+    "describe": "Pidgeotto é a evolução de Pidgey. Ele tem asas maiores e é mais ágil no ar.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png"
+  },
+  {
+    "ID": 18,
+    "Name": "Pidgeot",
+    "describe": "Pidgeot é a forma final da evolução de Pidgey. Ele é um pássaro majestoso com penas longas.",
+    "sprites": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png"
+  }
+]
